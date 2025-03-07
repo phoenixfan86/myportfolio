@@ -3,25 +3,25 @@ import ProjectCard from './ProjectCard'
 
 const works = [
   {
-    imgSrc: '/img/project/Mntn_1.png',
+    imgSrc: './img/project/Mntn_1.png',
     title: 'MNTN landing page',
     tags: ['HTML', 'CSS', 'JS'],
     projectLink: 'https://phoenixfan86.github.io/MNTN-landing/'
   },
   {
-    imgSrc: '/img/project/Alivio_1.png',
+    imgSrc: './img/project/Alivio_1.png',
     title: 'Alivio landing page',
     tags: ['HTML', 'CSS', 'JS'],
     projectLink: 'https://phoenixfan86.github.io/Alivio/'
   },
   {
-    imgSrc: '/img/project/Positivus_1.png',
+    imgSrc: './img/project/Positivus_1.png',
     title: 'Posotivus landing page',
     tags: ['HTML', 'CSS', 'JS'],
     projectLink: 'https://phoenixfan86.github.io/Positivus_landing/'
   },
   {
-    imgSrc: '/img/project/Ticket-generator_1.png',
+    imgSrc: './img/project/Ticket-generator_1.png',
     title: 'Conference ticket generator',
     tags: ['HTML', 'CSS', 'JS'],
     projectLink: 'https://phoenixfan86.github.io/Conference-ticket-generator/'
