@@ -29,7 +29,7 @@ const works = [
   {
     imgSrc: './img/project/Portfolio_1.png',
     title: 'myPortfolio Page',
-    tags: ['HTML', 'CSS', 'JS'],
+    tags: ['HTML', 'CSS', 'React', 'TypeScript'],
     projectLink: 'https://phoenixfan86.github.io/myportfolio/'
   }
 ]
