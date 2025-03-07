@@ -25,6 +25,12 @@ const works = [
     title: 'Conference ticket generator',
     tags: ['HTML', 'CSS', 'JS'],
     projectLink: 'https://phoenixfan86.github.io/Conference-ticket-generator/'
+  },
+  {
+    imgSrc: './img/project/Portfolio_1.png',
+    title: 'myPortfolio Page',
+    tags: ['HTML', 'CSS', 'JS'],
+    projectLink: 'https://phoenixfan86.github.io/myportfolio/'
   }
 ]
 
