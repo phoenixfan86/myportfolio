@@ -30,7 +30,7 @@ const About = () => {
                 </div>
               ))
             }
-            <img src="/img/ava1_1.png" alt="logo" width={30} height={30} className="rounded-full ml-auto md:size-[40px]" />
+            <img src="./img/ava1_1.png" alt="logo" width={30} height={30} className="rounded-full ml-auto md:size-[40px]" />
           </div>
         </div>
       </div>

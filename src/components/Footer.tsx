@@ -65,7 +65,7 @@ const Footer = () => {
         </div>
         <div className="flex items-center justify-between pt-10 mb-8">
           <a href="" className="">
-            <img src="/public/img/Logo_2.png" width={40} height={40} alt="Logo" className="" />
+            <img src="./public/img/Logo_2.png" width={40} height={40} alt="Logo" className="" />
           </a>
           <p className="text-zinc-200 text-sm">&copy; 2025 <span className="text-zinc-500">phoenixfan86</span></p>
         </div>
