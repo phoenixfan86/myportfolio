@@ -15,6 +15,12 @@ const works = [
     projectLink: 'https://phoenixfan86.github.io/Alivio/'
   },
   {
+    imgSrc: './img/project/Pizzahouse_1.jpg',
+    title: 'PizzaHouse',
+    tags: ['HTML', 'TailwindCSS', 'React', 'TypeScript', 'MongoDB'],
+    projectLink: 'https://mypizzahouse.vercel.app/'
+  },
+  {
     imgSrc: './img/project/Positivus_1.png',
     title: 'Posotivus landing page',
     tags: ['HTML', 'CSS', 'JS'],
@@ -31,12 +37,6 @@ const works = [
     title: 'myPortfolio Page',
     tags: ['HTML', 'CSS', 'React', 'TypeScript'],
     projectLink: 'https://phoenixfan86.github.io/myportfolio/'
-  },
-  {
-    imgSrc: './img/project/Pizzahouse_1.jpg',
-    title: 'PizzaHouse',
-    tags: ['HTML', 'TailwindCSS', 'React', 'TypeScript', 'MongoDB'],
-    projectLink: 'https://mypizzahouse.vercel.app/'
   }
 ]
 
