@@ -2,11 +2,11 @@
 const aboutItems = [
   {
     label: 'Project done',
-    number: 5
+    number: 6
   },
   {
     label: 'Year of experience',
-    number: 1
+    number: 1.5
   }
 ]
 
