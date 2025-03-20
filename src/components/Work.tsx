@@ -15,7 +15,7 @@ const works = [
     projectLink: 'https://phoenixfan86.github.io/Alivio/'
   },
   {
-    imgSrc: './img/project/Pizzahouse_1.jpg',
+    imgSrc: './img/project/pizzahouse_3.png',
     title: 'PizzaHouse',
     tags: ['HTML', 'TailwindCSS', 'React', 'TypeScript', 'MongoDB'],
     projectLink: 'https://mypizzahouse.vercel.app/'
