@@ -19,7 +19,7 @@ const Hero = () => {
           </div>
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">Building a scalable modern website</h2>
           <div className="flex items-center gap-3">
-            <ButtonPrimary label="Download CV" icon="download" />
+            <ButtonPrimary label="Download CV" icon="download" href="https://drive.google.com/file/d/1EzMEpfAZj1GpFQpuHaSRHJzbnThRb8r0/view?usp=sharing"/>
 
             <ButtonOutline href="#about" label="Scroll down" icon="arrow_downward" />
           </div>
