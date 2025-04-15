@@ -3,6 +3,12 @@ import ProjectCard from './ProjectCard'
 
 const works = [
   {
+    imgSrc: './img/project/car-rent-flexicar.png',
+    title: 'Car rent app',
+    tags: ['HTML', 'CSS', 'JS'],
+    projectLink: 'https://phoenixfan86.github.io/car-rent-flexicar/'
+  },
+  {
     imgSrc: './img/project/Mntn_1.png',
     title: 'MNTN landing page',
     tags: ['HTML', 'CSS', 'JS'],
