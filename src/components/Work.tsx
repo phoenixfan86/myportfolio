@@ -15,6 +15,12 @@ const works = [
     projectLink: 'https://phoenixfan86.github.io/MNTN-landing/'
   },
   {
+    imgSrc: './img/project/task-manager-preview.png',
+    title: 'Task manager app',
+    tags: ['React', 'CSS', 'NodeJS', 'MongoDB'],
+    projectLink: 'https://task-manager-v10.vercel.app/'
+  },
+  {
     imgSrc: './img/project/Alivio_1.png',
     title: 'Alivio landing page',
     tags: ['HTML', 'CSS', 'JS'],
