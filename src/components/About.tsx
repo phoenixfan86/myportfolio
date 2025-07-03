@@ -16,7 +16,7 @@ const About = () => {
       <div className="container">
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-            Welcome! I&apos;m Rostislav, young and ambitious Front-End developer with experience in creating responsive websites. I am proficient in HTML, CSS, Tailwind CSS, JavaScript, and the basics of React. I am open to new challenges and constantly improve my skills. My goal is to create products that will be useful for users.
+            Welcome! I&apos;m Rostislav, young and ambitious Front-End developer with experience in creating responsive websites. I am proficient in React, HTML, JavaScript, CSS, Tailwind CSS, and the basics of NextJS. I understand REST API and know how to work with Firebase and MongoDB. I am open to new challenges and constantly improve my skills. My goal is to create products that will be useful for users.
           </p>
           <div className="flex flex-wrap items-center gap-4 md:gap-7">
             {
