@@ -16,7 +16,7 @@ const works = [
   },
   {
     imgSrc: './img/project/what_to_buy.png',
-    title: 'What to buy app (Task manager)',
+    title: 'What to buy app',
     tags: ['React', 'CSS', 'NodeJS', 'MongoDB'],
     projectLink: 'https://task-manager-v10.vercel.app/'
   },
