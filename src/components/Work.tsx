@@ -15,8 +15,8 @@ const works = [
     projectLink: 'https://phoenixfan86.github.io/MNTN-landing/'
   },
   {
-    imgSrc: './img/project/task-manager-preview.png',
-    title: 'Task manager app',
+    imgSrc: './img/project/what_to_buy.png',
+    title: 'What to buy app (Task manager)',
     tags: ['React', 'CSS', 'NodeJS', 'MongoDB'],
     projectLink: 'https://task-manager-v10.vercel.app/'
   },
