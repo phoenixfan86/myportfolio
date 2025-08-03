@@ -15,6 +15,12 @@ const works = [
     projectLink: 'https://phoenixfan86.github.io/MNTN-landing/'
   },
   {
+    imgSrc: './img/project/fsbox.png',
+    title: 'FSBox - Моди для ігор',
+    tags: ['React', 'TailwindCSS', 'NextJS', 'Markdown'],
+    projectLink: 'https://fsbox.pp.ua/'
+  },
+  {
     imgSrc: './img/project/what_to_buy.png',
     title: 'What to buy app',
     tags: ['React', 'CSS', 'NodeJS', 'MongoDB'],
