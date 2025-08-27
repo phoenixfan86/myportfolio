@@ -6,7 +6,7 @@ const works = [
     imgSrc: './img/project/coffee_shop.png',
     title: 'Coffee shop app',
     tags: ['React', 'NesxtJS', 'CSS', 'Markdown'],
-    projectLink: 'https://coffee-shop-v2.vercel.app//'
+    projectLink: 'https://coffee-shop-v2.vercel.app/'
   },
   {
     imgSrc: './img/project/car-rent-flexicar.png',
