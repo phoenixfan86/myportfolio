@@ -3,6 +3,12 @@ import ProjectCard from './ProjectCard'
 
 const works = [
   {
+    imgSrc: './img/project/ai-moneymaker_1.png',
+    title: 'AI moneymaker',
+    tags: ['React', 'TypeScript', 'CSS'],
+    projectLink: 'https://ai-moneymaker.vercel.app/'
+  },
+  {
     imgSrc: './img/project/coffee_shop.png',
     title: 'Coffee shop app',
     tags: ['React', 'NextJS', 'CSS', 'Markdown'],
